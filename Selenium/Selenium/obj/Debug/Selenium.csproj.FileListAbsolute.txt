@@ -1,0 +1,9 @@
+c:\users\mkosek\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\Selenium.dll
+c:\users\mkosek\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\Selenium.pdb
+c:\users\mkosek\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\WebDriver.dll
+c:\users\mkosek\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
+c:\users\mkosek\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\WebDriver.xml
+c:\users\mkosek\documents\visual studio 2015\Projects\Selenium\Selenium\bin\Debug\WebDriver.Support.xml
+c:\users\mkosek\documents\visual studio 2015\Projects\Selenium\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+c:\users\mkosek\documents\visual studio 2015\Projects\Selenium\Selenium\obj\Debug\Selenium.dll
+c:\users\mkosek\documents\visual studio 2015\Projects\Selenium\Selenium\obj\Debug\Selenium.pdb
