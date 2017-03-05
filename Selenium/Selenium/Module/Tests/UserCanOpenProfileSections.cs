@@ -8,6 +8,19 @@ namespace Selenium.Module.Tests
     [TestClass]
     public class UserCanOpenProfileSections : TestBase
     {
+        [TestInitialize]
+        public void Initialize()
+        {
+            base.Initialize();
+
+        }
+
+        [TestCleanup]
+        public void Cleanup()
+        {
+            base.Cleanup();
+        }
+
         [TestMethod]
         public void RunTest1()
         {
