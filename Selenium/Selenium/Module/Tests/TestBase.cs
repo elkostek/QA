@@ -12,7 +12,7 @@ namespace Selenium.Module.Utility.PageObject
             {
                 Browser.Initialize();
                
-        }
+            }
 
             [TestCleanup]
             public void Cleanup()
